@@ -93,7 +93,7 @@ def download_transcript_summarize(link, translation):
     return summary_chain
 
 
-st.title('Video Podcaster')
+st.title('Video Summarizer')
 st.subheader('Ask anything. Learn Something.')
 
 st.write("Upload any video and get any answer you want about the video.")
